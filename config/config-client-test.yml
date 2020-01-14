@@ -1,7 +1,7 @@
 spring:
   applicatin:
-    name:config-client
+    name: config-client
 server:
-  port:9090
+  port: 9025
 
 
